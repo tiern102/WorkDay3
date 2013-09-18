@@ -16,7 +16,7 @@ Public Class Form1
         Else If (num1 < num2) Then
             txtResult.Text = "The larger number is " & num2
         Else
-            txtResult.Text = "They are equal"
+            txtResult.Text = "They are equal "
         End If
     End Sub
 
